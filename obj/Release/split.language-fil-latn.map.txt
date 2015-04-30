@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-fil-latn"
+"ResourceDimensions"		"language-fil"
+
+[Files]
+"C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\obj\Release\split.language-fil-latn.pri"			"resources.pri"

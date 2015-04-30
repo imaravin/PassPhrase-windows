@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\obj\Release\split.language-pt.pri"			"resources.pri"

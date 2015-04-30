@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-af"
+"ResourceDimensions"		"language-af"
+
+[Files]
+"C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\obj\Release\split.language-af.pri"			"resources.pri"

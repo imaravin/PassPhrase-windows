@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARAVINTH</Machine>
+    <WindowsUser>aravinth</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>39840imaravin.PassPhrase</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3E5DB290E66B9EFD130C07528AB2EFE71B08A1EAAFA806280C1EB9BBAE4A33C9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>39840imaravin.PassPhrase_1.1.0.0_neutral__7yaqh5snf2p1a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>39840imaravin.PassPhrase_7yaqh5snf2p1a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>39840imaravin.PassPhrase</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=C45EDF0C-2327-4D48-9B45-D886BE9FF9AA</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-28T05:19:21.267</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\PassPhrase.exe">
+      <PackagePath>PassPhrase.exe</PackagePath>
+      <Modified>2015-04-28T05:16:14.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T06:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T06:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T08:53:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T08:53:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T06:12:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T06:12:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T06:13:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T06:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\BadgeLogo.scale-100.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-100.jpg</PackagePath>
+      <Modified>2015-04-23T14:39:27.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\BadgeLogo.scale-140.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-140.jpg</PackagePath>
+      <Modified>2015-04-23T14:38:34.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\BadgeLogo.scale-180.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-180.jpg</PackagePath>
+      <Modified>2015-04-23T14:36:32.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:48:16.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:47:59.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:47:43.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:48:39.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:54:09.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:53:51.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:53:32.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:54:25.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T09:27:40.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T09:27:09.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T09:26:05.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:44:15.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:43:51.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:43:14.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:44:45.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:46:06.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:45:46.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:45:17.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:46:25.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:55:52.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:55:30.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:55:10.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:50:55.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:50:20.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:49:37.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T11:51:13.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-23T11:14:24.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-28T05:16:13.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\PassPhrase.xr.xml">
+      <PackagePath>PassPhrase.xr.xml</PackagePath>
+      <Modified>2015-04-24T13:09:24.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aravinth\documents\visual studio 2013\Projects\PassPhrase\PassPhrase\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-28T05:19:16.235</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
